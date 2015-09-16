@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿達經
+#+DATE: 2015-08-30 19:32:50.631098
+#+PROPERTY: JUAN 0
